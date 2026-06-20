@@ -8,7 +8,13 @@ A React-based web application that translates English text into a language of yo
 
 ## 🔗 Live Demo
 
-[Add your deployed link here once hosted — e.g. via Vercel/Netlify]
+https://stutirai.github.io/QSkill-task-1-Text-Translator/
+
+---
+
+## 📸 Screenshot
+
+![App Screenshot](./screenshot.png)
 
 ---
 
