@@ -15,7 +15,7 @@ https://q-skill-task-1-text-translator.vercel.app
 ## Task Preview
 
 <p align="center">
-  <img src="Screenshot.png" width="500">
+  <img src="Screenshot.png" width="800">
 </p>
 
 ---
