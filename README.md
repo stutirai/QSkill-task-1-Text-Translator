@@ -12,9 +12,9 @@ https://stutirai.github.io/QSkill-task-1-Text-Translator/
 
 ---
 
-## 📸 Screenshot
+## Task Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./Screenshot.png)
 
 ---
 
